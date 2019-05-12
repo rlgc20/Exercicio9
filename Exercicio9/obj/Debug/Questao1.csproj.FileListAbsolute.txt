@@ -1,0 +1,12 @@
+C:\Users\Samsung\source\repos\Exercicio9\Exercicio9\bin\Debug\Exercicio9.exe.config
+C:\Users\Samsung\source\repos\Exercicio9\Exercicio9\bin\Debug\Exercicio9.exe
+C:\Users\Samsung\source\repos\Exercicio9\Exercicio9\bin\Debug\Exercicio9.pdb
+C:\Users\Samsung\source\repos\Exercicio9\Exercicio9\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Samsung\source\repos\Exercicio9\Exercicio9\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Samsung\source\repos\Exercicio9\Exercicio9\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Samsung\source\repos\Exercicio9\Exercicio9\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Samsung\source\repos\Exercicio9\Exercicio9\obj\Debug\Questao1.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Exercicio9\Exercicio9\obj\Debug\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Exercicio9\Exercicio9\obj\Debug\Questao1.csproj.CopyComplete
+C:\Users\Samsung\source\repos\Exercicio9\Exercicio9\obj\Debug\Exercicio9.exe
+C:\Users\Samsung\source\repos\Exercicio9\Exercicio9\obj\Debug\Exercicio9.pdb

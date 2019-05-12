@@ -1,0 +1,6 @@
+C:\Users\Samsung\source\repos\Exercicio9\Questao2\bin\Debug\Questao2.dll
+C:\Users\Samsung\source\repos\Exercicio9\Questao2\bin\Debug\Questao2.pdb
+C:\Users\Samsung\source\repos\Exercicio9\Questao2\obj\Debug\Questao2.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Exercicio9\Questao2\obj\Debug\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Exercicio9\Questao2\obj\Debug\Questao2.dll
+C:\Users\Samsung\source\repos\Exercicio9\Questao2\obj\Debug\Questao2.pdb

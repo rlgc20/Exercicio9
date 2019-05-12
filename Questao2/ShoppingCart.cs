@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace Questao2
 {
     public class ShoppingCart
     {
         List<Book> Carrinho = new List<Book>();
+
         public void AdicionarLivro(Book book)
         {
             Carrinho.Add(book);
@@ -17,17 +16,17 @@ namespace Questao2
         {
             List<Book> booksToBeRemoved = new List<Book>();
 
-            foreach(Book book in Carrinho)
+            foreach (Book book in Carrinho)
             {
-                if(book.GetIbsn() == ibsn)
+                if (book.GetIbsn() == ibsn)
                 {
                     booksToBeRemoved.Add(book);
                 }
             }
-            
-            if(booksToBeRemoved.Any())
+
+            if (booksToBeRemoved.Any())
             {
-                foreach(Book book in booksToBeRemoved)
+                foreach (Book book in booksToBeRemoved)
                 {
                     Carrinho.Remove(book);
                 }
@@ -36,12 +35,9 @@ namespace Questao2
 
         public void EsvaziarCarrinho()
         {
-            if (Carrinho.Any())
+            while (Carrinho.Any())
             {
-                foreach(Book book in Carrinho)
-                {
-                    Carrinho.Remove(book);
-                }
+                Carrinho.Remove(Carrinho.FirstOrDefault());
             }
         }
 
@@ -49,7 +45,7 @@ namespace Questao2
         {
             int count = 0;
 
-            foreach(Book book in Carrinho)
+            foreach (Book book in Carrinho)
             {
                 count += 1;
             }
@@ -60,7 +56,7 @@ namespace Questao2
         {
             double precototal = 0;
 
-            foreach(Book book in Carrinho)
+            foreach (Book book in Carrinho)
             {
                 var preco = book.GetPreco();
                 precototal += preco;

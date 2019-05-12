@@ -1,12 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Exercicio9;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Exercicio9.Tests
+namespace Questao1.Tests
 {
     [TestClass()]
     public class NumeroTests
