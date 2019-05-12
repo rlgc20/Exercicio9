@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio9", "Exercicio9\Exercicio9.csproj", "{832B7C2A-8E67-48C5-BC05-76716857079F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao1", "Exercicio9\Questao1.csproj", "{832B7C2A-8E67-48C5-BC05-76716857079F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio9Tests1", "Exercicio9Tests1\Exercicio9Tests1.csproj", "{6C9CDF85-DF27-4A0F-8B3B-51C33F670115}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao1Tests", "Exercicio9Tests1\Questao1Tests.csproj", "{6C9CDF85-DF27-4A0F-8B3B-51C33F670115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao2", "Questao2\Questao2.csproj", "{5D2B1D3F-8ACF-420F-89AE-C7A8D478E198}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6C9CDF85-DF27-4A0F-8B3B-51C33F670115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C9CDF85-DF27-4A0F-8B3B-51C33F670115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C9CDF85-DF27-4A0F-8B3B-51C33F670115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D2B1D3F-8ACF-420F-89AE-C7A8D478E198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2B1D3F-8ACF-420F-89AE-C7A8D478E198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2B1D3F-8ACF-420F-89AE-C7A8D478E198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2B1D3F-8ACF-420F-89AE-C7A8D478E198}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
